@@ -17,7 +17,7 @@ const NuevoBoton = () => {
         </CButton>
         {mensajeVisible && (
           <div className="mt-3">
-            <h5>¡Hola! Este es un mensaje desde el nuevo botón.</h5>
+            <h5>¡Hola!</h5>
           </div>
         )}
       </CCardBody>
