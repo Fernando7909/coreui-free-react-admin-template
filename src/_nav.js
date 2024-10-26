@@ -38,6 +38,11 @@ const _nav = [
   },
   {
     component: CNavItem,
+    name: 'NuevoBoton',
+    to: '/theme/NuevoBoton',
+  },
+  {
+    component: CNavItem,
     name: 'Typography',
     to: '/theme/typography',
     icon: <CIcon icon={cilPencil} customClassName="nav-icon" />,
